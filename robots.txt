@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naveen2407.github.io/digital-shepherds/sitemap.xml
